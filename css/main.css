@@ -44,3 +44,56 @@ li {
 	text-transform: uppercase;
 	color: #83888F;
 }
+
+
+
+.coffee__block {
+	height: 600px;
+	background-image: url(../image/Bitmap.png);
+	background-color: white;
+	border-radius: 10px;
+}
+
+.coffee__info {
+	display: flex;
+	flex-direction: column;
+	margin-left: 155px;
+}
+
+
+
+.coffee__title {
+	font-family: 'Fraunces 9pt';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 72px;
+	line-height: 72px;
+	color: #FEFCF7;
+	width: 490px;
+}
+
+
+.coffee__text {
+	font-family: 'Barlow';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	color: #FEFCF7;
+	opacity: 0.8;
+	width: 400px;
+}
+
+.coffee__btn {
+	background: #0E8784;
+	border-radius: 6px;
+	font-family: 'Fraunces 9pt';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	color: #FEFCF7;
+	width: 217px;
+	height: 56px;	
+}
